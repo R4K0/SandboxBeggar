@@ -1,5 +1,6 @@
 # Sandbox Beggar
-## A S&Box key begging bot
+This bot isn't meant to be neatly written nor performance light. It is a literal meme. I want the key, and so do others. Garry, hurry up.
+PS.: Love you xo
 
 ### Setup:
 
