@@ -13,7 +13,7 @@ PS.: Don't self-bot using this, use it with your own bots :) Self-botting is aga
 - npm start
 
 ### What does it do:
-Posts an image like such in your chosen channel:
+Posts an image like such in your chosen channel:  
 ![image](https://user-images.githubusercontent.com/17243415/115460949-c99b8d80-a220-11eb-8b3e-c4a65cd6557a.png)
 
 Happy begging.
